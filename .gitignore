@@ -1,0 +1,30 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+
+# Serverpod
+serverpod_generated/
+migrations/*/generated/
+
+# Puro
+.puro/
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+out/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log

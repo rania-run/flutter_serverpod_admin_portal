@@ -1,0 +1,10 @@
+name: serverpod_admin_portal_client
+description: Starting point for a Serverpod client.
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+dependencies:
+  serverpod_client: 2.9.1
+  serverpod_admin_portal_shared:
+    path: ../serverpod_admin_portal_shared
